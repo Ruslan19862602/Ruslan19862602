@@ -1,7 +1,7 @@
-  - 👋 Hi, I’m @Ruslan
+  - 👋 Hi, I’m @Ruslan  
 - 👀 I’m interested in .     програмирование                
-- 🌱 I’m currently learning ...  на заводе  
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...  на заводе        
+- 💞️ I’m looking to collaborate on ... Инженерные системы
 - 📫 How to reach me ...  wergos86@yandex.ru
 
 <!---
